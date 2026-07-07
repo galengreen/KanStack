@@ -10,4 +10,4 @@ hero:
       link: https://github.com/KanStack/KanStack
     - theme: alt
       text: Docs
-      link: /1-overview
+      link: /overview
